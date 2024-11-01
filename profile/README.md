@@ -42,7 +42,7 @@ We welcome contributions of all kinds to the **stacchain** organization. Whether
 
 **Ways to Contribute:**
 
-- **Join the Discussion:** Participate in our [community forums](#) or [Slack channel](#) to share your ideas, ask questions, and collaborate with others.
+- **Join the Discussion:** Participate in our [Slack channel](https://join.slack.com/t/stacchain/shared_invite/zt-2tlaz5mxy-zADeAydd4yqoK5MiOmZ1Qg) to share your ideas, ask questions, and collaborate with others.
 - **Contribute to Projects:** Explore our [GitHub repositories](https://github.com/stacchain) and contribute to existing projects or start new ones that align with our mission.
 - **Improve Documentation:** Help us enhance our documentation by identifying gaps, writing tutorials, or translating content to reach a wider audience.
 - **Report Issues and Suggest Enhancements:** If you encounter any issues or have ideas for improvements, please [open an issue](https://github.com/stacchain) in the relevant repository or contact us directly.

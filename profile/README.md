@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="stacchain_logo.svg" alt="stacchain Logo" width="1000" />
+    <img src="stac-chain-square-new.svg" alt="stacchain Logo" width="1000" />
 </p>
 
 <br/>
@@ -34,7 +34,7 @@ We are grateful to the dedicated individuals and organizations who contribute th
 
 **Core Contributors:**
 
-- **Jonathan Healy** - *Project Lead* ([GitHub Profile](https://github.com/jonhealy1))
+- **Jonathan Healy** - _Project Lead_ ([GitHub Profile](https://github.com/jonhealy1))
 
 <h2>How to Contribute</h2>
 

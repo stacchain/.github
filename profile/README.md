@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="stacchain_logo.svg" alt="Logo" width="1000" />
 
 <!--
 

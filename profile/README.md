@@ -1,5 +1,8 @@
-<img src="stacchain_logo.svg" alt="Logo" width="1000" />
+<p align="left">
+    <img src="stacchain_logo.svg" alt="Logo" width="1000" />
+</p>
 
+<hr style="height: 3px; background-color: black; border: none; margin-top: 10px;">
 <!--
 
 **Here are some ideas to get you started:**

@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="stac-chain-square-new.svg" alt="stacchain Logo" width="1000" />
+    <img src="sc-logo.svg" alt="stacchain Logo" width="1000" />
 </p>
 
 <br/>

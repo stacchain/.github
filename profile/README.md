@@ -45,7 +45,7 @@ We welcome contributions of all kinds to the **stacchain** organization. Whether
 - **Join the Discussion:** Participate in our [Slack channel](https://join.slack.com/t/stacchain/shared_invite/zt-2tlaz5mxy-zADeAydd4yqoK5MiOmZ1Qg) to share your ideas, ask questions, and collaborate with others.
 - **Contribute to Projects:** Explore our [GitHub repositories](https://github.com/stacchain) and contribute to existing projects or start new ones that align with our mission.
 - **Improve Documentation:** Help us enhance our documentation by identifying gaps, writing tutorials, or translating content to reach a wider audience.
-- **Report Issues and Suggest Enhancements:** If you encounter any issues or have ideas for improvements, please [open an issue](https://github.com/stacchain) in the relevant repository or contact us directly.
+- **Report Issues and Suggest Enhancements:** If you encounter any issues or have ideas for improvements, please open an issue in the relevant repository or contact us directly.
 - **Spread the Word:** Share **stacchain** with your network, write blog posts, or present at events to help us grow the community.
 - **Collaborate on Research:** Engage with us on research initiatives that advance geospatial technologies and applications.
 - **Financial Contributions:** Support the project financially through sponsorships or donations to help us maintain and develop the platform.
@@ -53,15 +53,17 @@ We welcome contributions of all kinds to the **stacchain** organization. Whether
 **Getting Started:**
 
 1. **Visit Our Organization Page:** Explore our projects and initiatives on our [GitHub organization page](https://github.com/stacchain).
-2. **Connect with Us:** Reach out via [email](mailto:contact@stacchain.org) or join our community channels to introduce yourself and learn how you can contribute.
+2. **Connect with Us:** Reach out via [email](mailto:jonathan.d.healy@gmail.com) or join our community channels to introduce yourself and learn how you can contribute.
 3. **Identify Your Interests:** Determine how your skills and interests align with our projects and where you can make the most impact.
 4. **Start Contributing:** Begin collaborating with our team and community members. Your unique perspectives and expertise are valuable to us.
 
+<!---
 **Guidelines and Support:**
 
 - **Contribution Guidelines:** Please review our [Contribution Guidelines](#) to understand our processes and expectations for contributors.
 - **Code of Conduct:** We are committed to providing a welcoming and respectful environment. Please read our [Code of Conduct](#) before participating.
 - **Contact Us:** If you have any questions or need assistance, feel free to [contact us](mailto:contact@stacchain.org).
+--->
 
 Together, we can build a robust, innovative, and inclusive ecosystem for geospatial data management.
 
